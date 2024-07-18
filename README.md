@@ -1,7 +1,9 @@
 # Opentrons-Protocols
 Programming the Opentrons OT-2 robot (opentrons.com) to run protocols (procedures) in biology labs.
 
-# Genomic DNA from 200uL Blood Isolation.ipynb
+<br />  
+
+# `Genomic DNA from 200uL Blood Isolation.ipynb`
 ## Introduction
 
 This script was produced by Russell Tran for the [Guiyan Yan Lab](https://www.faculty.uci.edu/profile.cfm?faculty_id=5307) at UC Irvine. The Yan lab [studies](https://news.uci.edu/2017/04/27/9-6-million-grant-fuels-uci-malaria-control-research-in-africa/) the relationship between human-made environmental modifications (dams, irrigation, etc.) and malaria, and focuses on Kenya and Ethiopia.
